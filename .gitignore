@@ -1,0 +1,25 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Generated platform folders (optional if re-generated)
+android/.gradle/
+android/app/debug/
+android/app/profile/
+android/app/release/
+ios/Pods/
+ios/.symlinks/
+macos/Pods/
+macos/.symlinks/
+linux/flutter/ephemeral/
+windows/flutter/ephemeral/
+
+# macOS
+.DS_Store
